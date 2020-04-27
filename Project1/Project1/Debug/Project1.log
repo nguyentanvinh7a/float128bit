@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Vinh\Desktop\Project1\Project1\Source.cpp(31,8): warning C4101: 't2': unreferenced local variable
+C:\Users\Vinh\Desktop\Project1\Project1\Source.cpp(30,8): warning C4101: 't1': unreferenced local variable
+C:\Users\Vinh\Desktop\Project1\Project1\Source.cpp(32,8): warning C4101: 't3': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Vinh\Desktop\Project1\Debug\Project1.exe

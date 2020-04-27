@@ -1,0 +1,14 @@
+#pragma once
+#include <iostream>
+using namespace std;
+#include <string>
+#include "UtilQfloat.h"
+int main()
+{
+	//Qfloat q;
+	//init(q);
+	char a = 0;
+
+	cout << (int)a;
+	return 0;
+}

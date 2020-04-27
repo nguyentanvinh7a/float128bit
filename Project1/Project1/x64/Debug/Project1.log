@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Qfloat.cpp
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(16,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(26,17): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(37,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(57,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(116,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(208,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(225,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(262,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(303,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(447,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(457,17): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(468,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(475,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(507,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vinh\Desktop\Project1\Project1\Qfloat.cpp(514,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Vinh\Desktop\Project1\x64\Debug\Qfloat.exe

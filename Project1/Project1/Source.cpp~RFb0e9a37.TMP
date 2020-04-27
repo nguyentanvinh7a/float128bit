@@ -1,0 +1,19 @@
+#pragma once
+#include <iostream>
+using namespace std;
+#include <string>
+#include "UtilQfloat.h"
+int main()
+{
+	Qfloat q;
+	// cau a
+	ScanQfloat(q);
+	// cau b in ra so vua nhap tu cau a
+	PrintQfloat(q);
+	cout << endl;
+	// cau c dich tu so thap phan tu string bin ve string dec
+	// VD: 00111111111111111100101000111101011100001010001111010111000010100011110101110000101000111101011100001010001111010111000010100100
+	cout << QfloatBitToString("00111111111111111100101000111101011100001010001111010111000010100011110101110000101000111101011100001010001111010111000010100100");
+	//cout << QfloatToStringBin("1234564789.3345");
+	return 0;
+}
